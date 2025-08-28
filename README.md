@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-to my personal GitHub profile!
+Haiii!! I'm thai adn I'm fine!! really
 </div>
 
 <h3 align="center">
