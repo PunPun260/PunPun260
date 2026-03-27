@@ -12,7 +12,7 @@ Haiii!! I'm thai adn I'm fine!! really
 
 <h3 align="center">
 <a href="https://replay260.neocities.org/">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+<img src="https://github.com/PunPun260/PunPun260/blob/main/website.gif" alt="Visit homepage" align="center" height="200" width="200">
 </a>
 </h3>
 
